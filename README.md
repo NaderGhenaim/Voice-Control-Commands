@@ -1,7 +1,7 @@
 # Voice-Control-Commands
 Voice control commands for computer to Arduino. 
 
-THIS IS A PROTOTYPE
+TESTING BEHAVIOR NOT FULL IMPLEMENTATION
 
 - Uses laptop microphone to convert speech to text and then Arduino ide to convert text and commands into the OLED screen / passive speaker
 - Final product will utilize a raspberry pi to better sort code / remove need for Visual Studio and Arduino to both run
